@@ -3,7 +3,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Schets je ontwikkeling
 
-![IMG_8711](https://github.com/Annevd/schets-je-ontwikkeling/assets/144004647/949e3203-eb22-4e4d-b292-4b7f1bf492d4)
+![IMG_8712](https://github.com/Annevd/schets-je-ontwikkeling/assets/144004647/7bbb1ed9-4878-4f10-aef2-ce543a54df04)
 
 
 ## Licentie
